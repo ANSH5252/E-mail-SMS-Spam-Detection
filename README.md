@@ -104,7 +104,12 @@ Congratulations! You've won a free iPhone. Click here to claim.
 **Output:**
 
 Spam  
-## 📸 Screenshots
+## 📸 Screenshots  
+![Screenshot 2025-06-22 142236](https://github.com/user-attachments/assets/a31618ee-260c-4fb1-a7ab-b3ed64ce0af9)
+![Screenshot 2025-06-22 142213](https://github.com/user-attachments/assets/fd8541cb-0a08-45da-ae68-8761f1d8d14f)
+![Screenshot 2025-06-22 142143](https://github.com/user-attachments/assets/78ec6f2a-d4ff-49b2-aaa5-ef3411cf8624)
+![Screenshot 2025-06-22 141755](https://github.com/user-attachments/assets/e22205b4-a3bd-4896-a290-1e4376633d9b)
+![Screenshot 2025-06-22 141720](https://github.com/user-attachments/assets/0c20fcd4-2a3c-4500-a422-c674db6cd0e7)
 
 ## 🤝 Contributing
 Feel free to fork the repo, create issues, or submit pull requests. Suggestions for improvements and feature enhancements are always welcome!
